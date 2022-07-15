@@ -1,0 +1,28 @@
+h1{
+    background-color: brown;
+   border: 35px solid;
+}
+h2{
+    background-color: aqua;
+}
+p{
+    background-color: rgb(160, 160, 229);
+}
+span{
+    background-color: rgb(36, 248, 17);
+    width: 550px;
+    width: 350px; 
+    margin-left: 20px;
+    margin-right: 15px;
+}
+div{
+    background-color: lightcoral;
+    width: 300px;
+    height: 250px;
+    padding-top:105px;
+   margin: 30px;
+}
+h1:hover{
+    color: aqua;
+}
+
